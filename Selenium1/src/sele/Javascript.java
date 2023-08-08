@@ -14,6 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 //pradeep changed file
+//changed from git to eclipse
 public class Javascript {
 
 	public static void main(String[] args) throws AWTException, InterruptedException {
